@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlcProfile</string>
+    <string name="my_alc_profile">My ALC Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="name">Muogho Endurance Edirin</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="email_edirinmuogho_gmail_com">Email: edirinmuogho@gmail.com</string>
+    <string name="phone_number_2349027446675">Phone Number: +2349027446675</string>
+    <string name="slack_username_muogho_endurance">Slack Username: @Muogho Endurance</string>
+    <string name="my_profile">My Profile</string>
+</resources>
